@@ -2,7 +2,7 @@
 // @name         3rdguide TL and utils
 // @namespace    https://github.com/zklm/userscripts
 // @description  Simple EN translation of valks and bosses
-// @version      1
+// @version      1.0.1
 // @homepage     https://github.com/zklm/userscripts
 // @homepageURL  https://github.com/zklm/userscripts
 // @downloadURL  https://github.com/zklm/userscripts/raw/master/3rdguide.user.js
@@ -76,6 +76,8 @@
             '希儿·芙乐艾': 'Seele',
             '彼岸双生': 'Stygian Nymph',
             '幻海梦蝶': 'Swallowtail Phantasm',
+            
+            '女武神·荣光': 'Valkyrie Gloria',
 
             '德丽莎': 'Theresa',
             '暮光骑士·月煌': 'Twilight Paladin',
