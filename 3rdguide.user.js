@@ -77,6 +77,7 @@
             '彼岸双生': 'Stygian Nymph',
             '幻海梦蝶': 'Swallowtail Phantasm',
             
+            '幽兰黛尔': 'Durandal',
             '女武神·荣光': 'Valkyrie Gloria',
 
             '德丽莎': 'Theresa',
