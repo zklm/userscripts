@@ -2,7 +2,7 @@
 // @name         3rdguide TL and utils
 // @namespace    https://github.com/zklm/userscripts
 // @description  Simple EN translation of valks and bosses
-// @version      1.0.2
+// @version      1.0.3
 // @homepage     https://github.com/zklm/userscripts
 // @homepageURL  https://github.com/zklm/userscripts
 // @downloadURL  https://github.com/zklm/userscripts/raw/master/3rdguide.user.js
@@ -76,9 +76,10 @@
             '希儿·芙乐艾': 'Seele',
             '彼岸双生': 'Stygian Nymph',
             '幻海梦蝶': 'Swallowtail Phantasm',
-            
+
             '幽兰黛尔': 'Durandal',
             '女武神·荣光': 'Valkyrie Gloria',
+            '辉骑士·月魄': 'Bright Knight: Excelsis',
 
             '德丽莎': 'Theresa',
             '暮光骑士·月煌': 'Twilight Paladin',
@@ -157,7 +158,7 @@
         })
     }
 
-    $('#_js_table_s_c_1').on('click', 'li', function () {
+    $('#_js_table_s_c_1').on('click', 'li', function() {
         translate()
     })
 
