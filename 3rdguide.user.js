@@ -2,7 +2,7 @@
 // @name         3rdguide TL and utils
 // @namespace    https://github.com/zklm/userscripts
 // @description  Simple EN translation of valks and bosses
-// @version      1.0.3
+// @version      1.0.4
 // @homepage     https://github.com/zklm/userscripts
 // @homepageURL  https://github.com/zklm/userscripts
 // @downloadURL  https://github.com/zklm/userscripts/raw/master/3rdguide.user.js
@@ -10,6 +10,8 @@
 // @author       zklm
 // @match        http://3rdguide.com/web/teamnew/index
 // @match        http://www.3rdguide.com/web/teamnew/index
+// @match        https://3rdguide.com/web/teamnew/index
+// @match        https://www.3rdguide.com/web/teamnew/index
 // @grant        none
 // ==/UserScript==
 
