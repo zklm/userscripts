@@ -2,7 +2,7 @@
 // @name         3rdguide TL and utils
 // @namespace    https://github.com/zklm/userscripts
 // @description  Simple EN translation of valks and bosses
-// @version      1.0.5
+// @version      1.0.6
 // @homepage     https://github.com/zklm/userscripts
 // @homepageURL  https://github.com/zklm/userscripts
 // @downloadURL  https://github.com/zklm/userscripts/raw/master/3rdguide.user.js
@@ -90,6 +90,7 @@
         '处刑装·紫苑': 'Violet Executer',
         '樱火轮舞': 'Sakura Rondo',
         '女武神·誓约': 'Valkyrie Pledge',
+        '朔夜观星': 'Starlit Astrologos',
 
         '琪亚娜': 'Kiana',
         '天穹游侠': 'Void Ranger',
