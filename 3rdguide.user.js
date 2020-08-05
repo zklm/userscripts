@@ -2,7 +2,7 @@
 // @name         3rdguide TL and utils
 // @namespace    https://github.com/zklm/userscripts
 // @description  Simple EN translation of valks and bosses
-// @version      1.0.6
+// @version      1.0.7
 // @homepage     https://github.com/zklm/userscripts
 // @homepageURL  https://github.com/zklm/userscripts
 // @downloadURL  https://github.com/zklm/userscripts/raw/master/3rdguide.user.js
@@ -115,6 +115,7 @@
         '蓝莓特攻': 'Blueberry Blitz',
 
         '芽衣': 'Mei',
+        '雷之律者': 'Herrscher of Thunder',
         '破晓强袭': 'Striker Fulminata',
         '雷电女王的鬼铠': 'Lightning Empress',
         '脉冲装·绯红': 'Crimson Impulse',
