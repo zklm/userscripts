@@ -38,6 +38,7 @@
         '女武神:': 'Valkyries',
 
         // Bosses
+        '祸斗': 'Huodou',
         '托纳提乌·噬日之影': 'Tonatiuh',
         '吼姆王': 'Homo King',
         // '卡莲': 'Kallen', // (use valkyrie TL)
@@ -123,6 +124,7 @@
         '影舞冲击': 'Shadow Dash',
 
         '丽塔': 'Rita',
+        '失落迷迭': 'Fallen Rosemary',
         '苍骑士·月魂': 'Argent Knight: Artemis',
         '猎袭装·影铁': 'Phantom Iron',
         '黯蔷薇': 'Umbral Rose',
